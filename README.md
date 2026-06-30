@@ -2,7 +2,7 @@
 <h3 align="center">Computer Engineer | Technical Lead at 213 Technic</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/onur-safa-aygün" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-safa-aygün" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/onur-safa-aygun" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onur-safa-aygün" height="30" width="40" /></a>
   <a href="https://instagram.com/onuraygun0" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onuraygun0" height="30" width="40" /></a>
 </p>
 
